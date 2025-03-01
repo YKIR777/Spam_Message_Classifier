@@ -1,1 +1,1 @@
-Spam Message Classifier
+Spam Message Classifier Pet Project
